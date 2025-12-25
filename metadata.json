@@ -1,0 +1,8 @@
+{
+  "name": "Under Human Power — Expedition Hub",
+  "description": "An elite endurance cycling and exploration platform featuring real-time AI navigation, gear analysis, and mission metrics for extreme human-powered journeys.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
